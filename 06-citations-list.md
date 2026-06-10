@@ -11,7 +11,7 @@ Business Name: Kate Kanner Permanent Makeup
 Address: G/F Office 4, Plaza Royale, L.P. Leviste Street, 
          Salcedo Village, Makati City, 1227 Metro Manila
          (at Reverie Aesthetic and Hair Center)
-Phone: +63 945 667 5438
+Phone: 0917 186 9217
 Email: [Kate's professional email if available, otherwise clinic line]
 Website: https://www.iconique.com.ph
 Hours: Daily 10:00 AM - 9:00 PM

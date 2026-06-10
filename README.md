@@ -13,7 +13,7 @@ This folder contains the full strategy and ready-to-use content for building Kat
 - **Current clinic:** Reverie Aesthetic and Hair Center (where Kate currently works)
 - **Booking flow:** Iconique landing page (clinic infrastructure)
 - **Address:** G/F Office 4, Plaza Royale, L.P. Leviste Street, Salcedo Village, Makati City, 1227 Metro Manila
-- **Clinic phone:** +63 945 667 5438
+- **Clinic phone:** 0917 186 9217
 - **Clinic email:** booknow.iconique@gmail.com
 - **Hours:** Daily, 10:00 AM – 9:00 PM
 - **Booking landing page:** https://www.iconique.com.ph/r/lp/permanent-makeup
