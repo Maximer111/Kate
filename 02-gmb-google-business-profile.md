@@ -68,7 +68,7 @@ Address: G/F Office 4, Plaza Royale, L.P. Leviste Street,
 Phone: [Kate's direct line if available, otherwise clinic line]
 Email: [Kate's professional email]
 Website: https://www.iconique.com.ph
-Hours: Daily 10:00 AM - 9:00 PM
+Hours: Sun-Thu 10:00 AM - 6:00 PM, Fri 9:00 AM - 3:00 PM, Sat Closed (Shabbat)
 ```
 
 **Note on phone:** If Kate has her own number, use it. If not, use Reverie's clinic line for now and switch when she has a direct contact.

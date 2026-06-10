@@ -14,7 +14,7 @@ Address: G/F Office 4, Plaza Royale, L.P. Leviste Street,
 Phone: 0917 186 9217
 Email: [Kate's professional email if available, otherwise clinic line]
 Website: https://www.iconique.com.ph
-Hours: Daily 10:00 AM - 9:00 PM
+Hours: Sun-Thu 10:00 AM - 6:00 PM, Fri 9:00 AM - 3:00 PM, Sat Closed
 Categories: Permanent Make-up Clinic, Beauty Salon, Make-up Artist
 ```
 
