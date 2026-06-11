@@ -43,6 +43,10 @@ Build Kate's personal brand on Instagram and TikTok (assets she owns forever) wh
 | `11-faq-and-notes.md` | Open questions, things to clarify, future moves |
 | `12-current-state-audit.md` | Audit of Kate's existing IG + FB + immediate fixes |
 | `13-review-templates-all-clients.md` | **REVIEWS — all 20 templates** for both female and male clients + ask scripts + SMS + GBP replies |
+| `14-seo-plan-kate.md` | Local SEO score, competitor map, 15-task delegation plan |
+| `15-social-takeover-instagram-tiktok.md` | IG takeover via Meta Business Suite + TikTok account creation and launch |
+| `16-helper-production-plan-30-days.md` | Day-by-day 30-day production plan for the helper (IG + TikTok), shot lists, workflow |
+| `17-citations-execution-playbook.md` | Citation submissions step by step: copy blocks, run sheet, tracker |
 | `Kate Kanner Reviews - All Clients.txt/.html/.pdf` | Plain text, styled HTML, and PDF versions of the review templates |
 
 ## How to use this folder
@@ -64,4 +68,4 @@ Build Kate's personal brand on Instagram and TikTok (assets she owns forever) wh
 
 ---
 
-*Last updated: 2026-06-08*
+*Last updated: 2026-06-11*
