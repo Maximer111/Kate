@@ -179,7 +179,7 @@ Time: 2 min | Who: You
 
 ---
 
-**TASK 6 — GBP posts — launch bi-weekly cadence**
+**TASK 6 — GBP posts — launch twice-weekly cadence (every Monday + Thursday)**
 Time: 1 hour setup | Who: Assistant writes, Kate approves
 
 Post every Monday and Thursday. Rotate these 4 types:

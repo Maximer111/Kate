@@ -62,6 +62,16 @@ These are already specified in file 12, execute them now:
 - [ ] Rebuild highlights in this order (file 03): Before/After Brows, Lips, Eyeliner, Reviews, Process, Aftercare, About Kate, Book Now
 - [ ] Audit the existing 100 posts, note the top 10 performers in the metrics sheet (these formats get repeated)
 
+### A3.5 Facebook legacy cleanup: the Innisfil problem (30 min, Kate + helper)
+
+Found during the 2026-06-11 live check (file 18): Kate's Facebook page (ID 61555188494978) previously operated as **"Kate Kanner Permanent Makeup Innisfil"** in Ontario, Canada. The page itself is renamed to Makati, but Google still serves the old identity: the Innisfil slug, a Canadian phone (+1 647-446-1994), and an old email (pmubykatya@gmail.com) appear in search results. ChatGPT and Bing read these signals, so right now the brand entity is partly anchored to Canada.
+
+- [ ] Facebook page > About: remove or update every remaining Canadian artifact (old phone, old email, old address, old service area, old website links)
+- [ ] Confirm page username/handle reflects Makati, and the About text states Salcedo Village, Makati with the canonical NAP
+- [ ] Ask Kate: does an old **Canadian GBP listing** for "Kate Kanner Permanent Makeup" (Innisfil) exist? If yes, log into it and mark it permanently closed or moved. A live Canadian listing splits her brand entity in two
+- [ ] Search `"Kate Kanner" Innisfil` and `"Kate Kanner" permanent makeup Canada`: list any old Canadian citations (Yelp.ca, StarOfService, wedding directories) and request updates or removal
+- [ ] The fresh Makati citations wave (file 17) is what ultimately buries the stale signal; treat this cleanup as part of Week 1
+
 ### A4. Operating rules after takeover
 
 | Action | Who | Rule |

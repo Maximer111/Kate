@@ -47,6 +47,7 @@ Build Kate's personal brand on Instagram and TikTok (assets she owns forever) wh
 | `15-social-takeover-instagram-tiktok.md` | IG takeover via Meta Business Suite + TikTok account creation and launch |
 | `16-helper-production-plan-30-days.md` | Day-by-day 30-day production plan for the helper (IG + TikTok), shot lists, workflow |
 | `17-citations-execution-playbook.md` | Citation submissions step by step: copy blocks, run sheet, tracker |
+| `18-local-seo-maps-double-check.md` | Audit of all plans vs 2026 local SEO factors + live checks; found Innisfil legacy issue and dead directories |
 | `Kate Kanner Reviews - All Clients.txt/.html/.pdf` | Plain text, styled HTML, and PDF versions of the review templates |
 
 ## How to use this folder

@@ -8,10 +8,18 @@ The Iconique landing page is JavaScript-rendered (Next.js). Schema added via Jav
 
 If you can't get dev access, focus on GBP and citations — schema is a nice-to-have, not a must-have for ranking.
 
+## ⚠️ Entity name caution (added 2026-06-11)
+
+The schema below names the business "Reverie Aesthetic and Hair Center", but the GBP that links to this page is "Kate Kanner Permanent Makeup". Google cross-references the GBP with its landing page; two different business names at the same address can blur the entity. Mitigations, in order of preference:
+
+1. When katekanner.ph launches (file 14, Task 15), put the schema there with `"name": "Kate Kanner Permanent Makeup"` and move the GBP website link to it. Cleanest fix.
+2. Until then, if deploying on the Iconique page, add the Person schema for Kate (file 14, Task 14) alongside this block so Kate's entity is present on the page.
+3. At minimum, ask Iconique to add the text "Kate Kanner, Permanent Makeup Artist" somewhere on the landing page. As of 2026-06-11 the page contains no mention of Kate at all (see file 18).
+
 ## Schema for the landing page (if dev can add it)
 
 Replace the placeholders before pasting:
-- `+63XXXXXXXXX` → real phone formatted as +63 9456675438
+- `+63XXXXXXXXX` → real phone formatted as +63 917 186 9217
 - `your-actual-handle` → real social media handles
 - `YOUR_GBP_CID` → Google Business Profile CID (find via right-click on GBP card → Copy link)
 - Real image URLs
@@ -38,7 +46,7 @@ Replace the placeholders before pasting:
     "addressRegion": "Metro Manila",
     "addressCountry": "PH"
   },
-  "telephone": "+639456675438",
+  "telephone": "+639171869217",
   "email": "booknow.iconique@gmail.com",
   "url": "https://www.iconique.com.ph/r/lp/permanent-makeup",
   "priceRange": "₱₱₱",
@@ -58,8 +66,8 @@ Replace the placeholders before pasting:
   ],
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": "14.5547",
-    "longitude": "121.0244"
+    "latitude": "14.55938",
+    "longitude": "121.02066"
   },
   "hasMap": "https://maps.google.com/?cid=YOUR_GBP_CID",
   "areaServed": [
@@ -154,7 +162,7 @@ For individual treatments:
       "name": "Where is Iconique located?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our Salcedo Village studio is at G/F Office 4, Plaza Royale, L.P. Leviste Street, Makati City, 1227 Metro Manila. We're open daily 10:00 AM to 9:00 PM."
+        "text": "Our Salcedo Village studio is at G/F Office 4, Plaza Royale, L.P. Leviste Street, Makati City, 1227 Metro Manila. We're open Sunday to Thursday 10:00 AM - 6:00 PM and Friday 9:00 AM - 3:00 PM, closed Saturdays."
       }
     }
   ]

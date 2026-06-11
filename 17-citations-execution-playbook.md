@@ -96,40 +96,51 @@ Typical flow on every directory: Register with brand email > Add business / List
 
 | # | Site | Where | Copy | Notes |
 |---|---|---|---|---|
-| 7 | Yellow Pages PH | yellow-pages.ph | Medium | Oldest PH directory, strong citation |
+| 7 | Yellow Pages PH | **yellowpages.com.ph** | Medium | Official PH Yellow Pages. The `yellow-pages.ph` domain from file 06 is dead, use this one |
 | 8 | Booky PH | booky.ph > List your business | Medium | File 14 Task 9. Beauty & Wellness category |
 | 9 | BeautyMNL | beautymnl.com > Partner with us | Medium | File 14 Task 8. If no form, email partnerships |
 | 10 | Fresha | fresha.com/for-business | Long | File 14 Task 7. Add all services + prices, becomes a second booking channel |
 | 11 | Carousell PH | carousell.ph | Short | Create a Services listing for PMU, Makati area |
-| 12 | PhilippinesListed | philippineslisted.com | Medium | Standard free listing |
+| 12 | Yelp | business.yelp.com | Medium | ChatGPT pulls local business data from Yelp. Makati has an active Permanent Makeup category with real traffic |
 
-### Week 3: PH second half + niche (~2 hrs)
+### Week 3: niche + AI-visibility platforms (~2 hrs)
 
 | # | Site | Where | Copy | Notes |
 |---|---|---|---|---|
-| 13 | Filipino Yellow Pages | filipinoyellowpages.net | Medium | |
-| 14 | PinoyListing | pinoylisting.com | Medium | |
-| 15 | Wazzup Pilipinas | wazzuppilipinas.com | Long | Blog-style; request a business feature via their contact form |
-| 16 | MetroDeal | metrodeal.com | Medium | Only list, do NOT run discount vouchers (devalues the brand) |
-| 17 | Kasal.com | kasal.com > List Your Business | Bridal | File 14 Task 12. Beauty & Makeup > PMU |
-| 18 | Bridestory PH | bridestory.com/for-vendors | Bridal | File 14 Task 12 |
-| 19 | Wedding Bells PH | weddingbells.com.ph | Bridal | |
-| 20 | Klook PH | klook.com (merchant signup) | Medium | Optional; only if merchant terms are acceptable, skip if they demand exclusive pricing |
+| 13 | Tripadvisor | tripadvisor.com (Owners > claim/add) | Medium | Category: Spas & Wellness. Another platform ChatGPT and Bing source from |
+| 14 | OpenStreetMap | openstreetmap.org | Short | Add a node for the business inside The Plaza Royale (lat 14.55938, lon 121.02066). Factual data only per OSM rules. Feeds Apple Maps and hundreds of apps |
+| 15 | MetroDeal | metrodeal.com | Medium | Only list, do NOT run discount vouchers (devalues the brand) |
+| 16 | Kasal.com | kasal.com > List Your Business | Bridal | File 14 Task 12. Beauty & Makeup > PMU |
+| 17 | Bridestory PH | bridestory.com/for-vendors | Bridal | File 14 Task 12 |
+| 18 | Wedding Bells PH | weddingbells.com.ph | Bridal | |
+| 19 | Klook PH | klook.com (merchant signup) | Medium | Optional; only if merchant terms are acceptable, skip if they demand exclusive pricing |
 
 ### Week 4: international + cleanup (~2 hrs)
 
 | # | Site | Where | Copy | Notes |
 |---|---|---|---|---|
-| 21 | Foursquare | foursquare.com/business | Short | Feeds many apps' map data |
-| 22 | Hotfrog PH | hotfrog.ph | Medium | |
-| 23 | Cylex PH | cylex.com.ph | Medium | |
-| 24 | Brownbook | brownbook.net | Short | |
-| 25 | Tupalo | tupalo.com | Short | |
-| 26 | Cybo | cybo.com | Short | |
-| 27 | BizPages | bizpages.org | Short | |
-| 28 | Storeboard | storeboard.com | Medium | |
-| 29 | StyleSeat | styleseat.com | Medium | US-focused; create only if PH location is accepted, otherwise skip |
-| 30 | Vagaro | vagaro.com | Medium | Same rule as StyleSeat |
+| 20 | Foursquare | foursquare.com/business | Short | Feeds many apps' map data |
+| 21 | Hotfrog PH | hotfrog.ph | Medium | Blocks bots, works fine in a normal browser |
+| 22 | Cylex PH | cylex.com.ph | Medium | |
+| 23 | Brownbook | brownbook.net | Short | |
+| 24 | Tupalo | tupalo.com | Short | |
+| 25 | Cybo | cybo.com | Short | |
+| 26 | Storeboard | storeboard.com | Medium | |
+| 27 | StyleSeat | styleseat.com | Medium | US-focused; create only if PH location is accepted, otherwise skip |
+| 28 | Vagaro | vagaro.com | Medium | Same rule as StyleSeat |
+
+### Dead or broken sites, do NOT submit (liveness-checked 2026-06-11)
+
+These were in the original file 06 list but failed live checks. Helper: do not spend time on them. If you want to re-verify, open in a normal browser first.
+
+| Site | Status found |
+|---|---|
+| yellow-pages.ph | Unreachable (correct domain is yellowpages.com.ph, row 7) |
+| philippineslisted.com | Server error / unreachable |
+| filipinoyellowpages.net | Dead, connection refused |
+| pinoylisting.com | Loads but SSL certificate expired = unmaintained, skip |
+| wazzuppilipinas.com | Unreachable |
+| bizpages.org | Unreachable |
 
 ### Bonus brand profiles (not classic citations, still authority)
 
@@ -138,6 +149,7 @@ Typical flow on every directory: Register with brand email > Add business / List
 | Pinterest Business | pinterest.com/business: profile with NAP in bio, pin every before/after with keyword descriptions ("microblading Makati"). PMU content performs well there for years |
 | LinkedIn | Kate's personal profile updated with title "Permanent Makeup Artist, Salcedo Village Makati" + website link |
 | YouTube channel | Create with brand email, channel description = long description + NAP. Even with no videos it is a Google-owned citation |
+| Reddit | Kate (not the helper) joins r/beautytalkph and PH beauty subreddits as a real participant answering PMU questions. ChatGPT and Perplexity cite Reddit heavily. Never drop links or self-promote; flair/profile says who she is, the answers do the marketing |
 
 ## Hard rules
 

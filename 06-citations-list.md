@@ -41,16 +41,18 @@ Update only the address. The name, categories, website, and hours stay the same.
 
 | # | Site | URL | Status | Date submitted |
 |---|---|---|---|---|
-| 7 | Yellow Pages PH | yellow-pages.ph | ☐ | |
+| 7 | Yellow Pages PH | yellowpages.com.ph | ☐ | |
 | 8 | Booky PH | booky.ph | ☐ | |
 | 9 | BeautyMNL | beautymnl.com | ☐ | |
 | 10 | MetroDeal | metrodeal.com | ☐ | |
 | 11 | Sulit / Carousell PH | carousell.ph | ☐ | |
 | 12 | Spot.ph | spot.ph | ☐ | |
-| 13 | Wazzup Pilipinas | wazzuppilipinas.com | ☐ | |
-| 14 | PhilippinesListed | philippineslisted.com | ☐ | |
-| 15 | Filipino Yellow Pages | filipinoyellowpages.net | ☐ | |
-| 16 | PinoyListing | pinoylisting.com | ☐ | |
+| 13 | Yelp | business.yelp.com | ☐ | |
+| 14 | Tripadvisor | tripadvisor.com | ☐ | |
+| 15 | OpenStreetMap | openstreetmap.org | ☐ | |
+| 16 | ~~PinoyListing~~ | ~~pinoylisting.com~~ | skip | SSL expired |
+
+**Removed 2026-06-11 after liveness check (see file 18):** yellow-pages.ph (dead domain, replaced with yellowpages.com.ph), wazzuppilipinas.com, philippineslisted.com, filipinoyellowpages.net all unreachable. Yelp, Tripadvisor, and OpenStreetMap added: they feed ChatGPT, Bing, and Apple Maps.
 
 ## Tier 3 — Niche / Beauty-specific
 
@@ -74,7 +76,7 @@ Update only the address. The name, categories, website, and hours stay the same.
 | 27 | Tupalo | tupalo.com | ☐ | |
 | 28 | Cylex PH | cylex.com.ph | ☐ | |
 | 29 | Cybo | cybo.com | ☐ | |
-| 30 | BizPages | bizpages.org | ☐ | |
+| 30 | ~~BizPages~~ | ~~bizpages.org~~ | skip | Unreachable 2026-06-11 |
 | 31 | Storeboard | storeboard.com | ☐ | |
 
 ## Submission timeline
